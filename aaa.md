@@ -1,3 +1,8 @@
+---
+layout: default
+title: たいとる
+---
+
 # aaa
 
 aaa aaa aaa
